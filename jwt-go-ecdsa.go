@@ -1,4 +1,4 @@
-package main
+package jwt_go_ecdsa
 
 import (
 	"encoding/json"
