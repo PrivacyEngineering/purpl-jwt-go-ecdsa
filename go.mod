@@ -1,4 +1,4 @@
-module github.com/Siar-Akbayin/jwt-go-auth
+module github.com/PEngG7/jwt-go-ecdsa
 
 go 1.20
 
