@@ -1,3 +1,9 @@
+<p align="center">
+	<img src="purpl.png" width=50" />
+</p>
+
+# purpl JWT generation using ECDSA
+
 To use this module run:
 ```shell
 go get -u github.com/PEngG7/jwt-go-ecdsa@v0.1.0
